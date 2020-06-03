@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\testsfml\testsfml\main.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\testsfml\testsfml\main.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\testsfml\testsfml\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\testsfml\testsfml\main.cpp(179): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\testsfml\testsfml\main.cpp(191): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\testsfml\testsfml\main.cpp(192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\testsfml\testsfml\main.cpp(130): warning C4101: 'buff': unreferenced local variable
+d:\testsfml\testsfml\main.cpp(131): warning C4101: 'ret': unreferenced local variable
+  testSFML.vcxproj -> D:\testSFML\Debug\testSFML.exe
+  testSFML.vcxproj -> D:\testSFML\Debug\testSFML.pdb (Full PDB)
